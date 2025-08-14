@@ -1,7 +1,18 @@
-# Counter App
 
-A simple app to increase, decrease, or reset a counter using HTML, CSS, and JavaScript.
 
-## Live Demo
-(Will add link after GitHub Pages is enabled.)
+ Counter App
+
+A simple counter app made with HTML, CSS, and JavaScript.  
+You can increase, decrease, or reset the counter with one click.
+
+ Live Demo
+[View here](https://ajwatahir9.github.io/counter-app/)
+
+ Technologies
+- HTML
+- CSS
+- JavaScript
+
+
+
 
