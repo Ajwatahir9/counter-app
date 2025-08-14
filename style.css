@@ -1,0 +1,38 @@
+
+body {
+    background: #899481;
+   
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+#counter {
+    font-size: 4rem;
+    font-weight: bold;
+    margin: 20px 0;
+    color: black; 
+    transition: color 0.3s ease, transform 0.2s ease; 
+}
+
+.btn {
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: white;
+    border: 2px solid #555;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.1s ease;
+}
+
+.btn:hover {
+    background-color: #a4b095;
+    transform: scale(1.05); 
+}
